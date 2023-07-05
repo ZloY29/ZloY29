@@ -18,15 +18,15 @@
 <!-- <a href='https://archiveprogram.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <br/> -->
 
-
-
 <p>
+  
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&size=30&duration=4000&pause=1000&color=00F71E&width=50&lines=C%2B%2B" alt="Typing SVG" /></a>
   </p>
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=00F747&center=true&vCenter=true&width=435&lines=sport+programmer" alt="Typing SVG" /></a>
   </p>
+  
 </p>
 
 ### ***О себе:***
