@@ -21,9 +21,11 @@
 <p>
   
   <p align="center">
+    <!-- Typing SVG -->
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=C%2B%2B)](https://git.io/typing-svg)
   </p>
   <p align="center">
+    <!-- Typing SVG -->
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=sport+programmer)](https://git.io/typing-svg)
   </p>
   
