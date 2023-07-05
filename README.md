@@ -107,7 +107,7 @@ src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f7
 ### 📧 Почта: lysikovd@list.ru
 ### 🌐 Telegram: [@Danya_1](https://t.me/Danya_1)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&pause=1000&color=F71212&width=435&lines=Goodbye+my+friend;The+Developer+るルのて;Was+with+you;Come+again!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&pause=400&color=0AB2FF&width=435&lines=Goodbye+my+friend!;The+Developer+るルのて+was+with+you🙏;Come+again!)](https://git.io/typing-svg)
 
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
