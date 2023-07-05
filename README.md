@@ -30,6 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+ ### Змея ест мои отправки! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+ 
  ----
 ### 🏆 ***Моя статистика:***
 <img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZloY29&theme=github_dark">
