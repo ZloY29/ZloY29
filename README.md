@@ -15,7 +15,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VasudevJaiswal) 
  
-<!-- <a href='https://archiveprogram.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<!-- <a href='https://archiveprogram.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <br/> -->
 
 
@@ -34,7 +34,7 @@
 ### ***О себе:***
 * 🌶️ Студент математического факультета ЯрГУ им. Павла Григорьевича Демидова
 
-* 🥅🏒 Занимался с 3-х лет хоккеем в Ярославле, играл в МХЛ, но ушел в разработку
+* 🥅🏒 С 3-х лет занимался хоккеем в Ярославле, играл в МХЛ, но ушел в разработку
 
 * ⭐  Учу алгоритмы и учусь оценивать их сложность и оптимизировать их/ занимаюсь спортивным программированием на С++ 
 
