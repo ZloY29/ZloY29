@@ -20,15 +20,8 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=50&descAlign=63)
-
 <p>
-  <h1 align="center">Всем привет! Меня зовут 
-    <a href="https://vk.com/danyaloko_1" target="_blank">
-      Даниил Лысиков
-    </a> 
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
-  </h1>
+  
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&size=30&duration=4000&pause=1000&color=00F71E&width=50&lines=C%2B%2B" alt="Typing SVG" /></a>
   </p>
