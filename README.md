@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Daniil+Lysikov's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=610&lines=Welcome+To+Daniil+Lysikov's+Github+Profile..)](https://git.io/typing-svg)
 
 
 <br> 
@@ -11,15 +11,11 @@
 </h3>
 
 
-<br>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZloY29) 
- 
-<!-- <a href='https://archiveprogram.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<br/> -->
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=C++; sport+programmer..)](https://git.io/typing-svg)
+<p>
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=500&color=00F747&center=true&vCenter=true&width=750&lines=sport+programmer" alt="Typing SVG" /></a>
+  </p>
+</p>
 
 
 ### ***О себе:***
