@@ -1,7 +1,6 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Daniil+Lysikov's+Github+Profile..)](https://git.io/typing-svg)
 
-[![Telegram Badge](https://avatars.dzeninfra.ru/get-zen_doc/9400491/pub_642413021a31211a1aa12bff_64241b374b88007cce39d9b4/scale_1200](https://t.me/Danya_1) [![Linkedin Badge](https://img.shields.io/badge/-VasudevJaiswal-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vasudev-jaiswal-440b89192) [![Mail Badge](https://img.shields.io/badge/-V_vasu49-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vasudevjaiswa) [![Mail Badge](https://img.shields.io/badge/-Vasujaiswal00@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vasujaiswal00@gmail.com)
 <br> 
  <p align="center">
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
