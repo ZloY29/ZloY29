@@ -37,7 +37,7 @@
 <img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZloY29&theme=github_dark">
 
 <div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddenyy&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZloY29&theme=github_dark"> 
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZloY29&theme=github_dark">
 </div>
 
