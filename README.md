@@ -18,18 +18,9 @@
 <!-- <a href='https://archiveprogram.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/ZloY29'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <br/> -->
 
-<p>
-  
-  <p align="center">
-    <!-- Typing SVG -->
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=C%2B%2B)](https://git.io/typing-svg)
-  </p>
-  <p align="center">
-    <!-- Typing SVG -->
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=sport+programmer)](https://git.io/typing-svg)
-  </p>
-  
-</p>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=C++; sport+programmer)](https://git.io/typing-svg)
+
 
 ### ***О себе:***
 * 🌶️ Студент математического факультета ЯрГУ им. Павла Григорьевича Демидова
