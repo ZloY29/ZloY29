@@ -19,7 +19,7 @@
 <br/> -->
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=C++; sport+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=C++; sport+programmer..)](https://git.io/typing-svg)
 
 
 ### ***О себе:***
