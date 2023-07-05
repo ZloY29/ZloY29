@@ -1,20 +1,57 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=50&descAlign=63)
 
-<!--
-**ZloY29/ZloY29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <h1 align="center">Всем привет! Меня зовут 
+    <a href="https://vk.com/ddenios" target="_blank">
+      Даниил Лысиков
+    </a> 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+  </h1>
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&size=30&duration=4000&pause=1000&color=00F71E&width=50&lines=C%2B%2B" alt="Typing SVG" /></a>
+  </p>
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=00F747&center=true&vCenter=true&width=435&lines=sport+programmer" alt="Typing SVG" /></a>
+  </p>
+  
+</p>
 
-Here are some ideas to get you started:
+### ***О себе:***
+* 🌶️ студент математического факультета ЯрГУ им. Павла Григорьевича Демидова
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⭐ знаю алгоритмы и умею оценивать их сложность / занимаюсь спортивным программированием на С++ 
+  
+* ⏱ Учусь оптимизировать алгоритмы 
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+* ☀️ Пишу "Чистый код", кроме спортпроги)
+
+* 💪 не боюсь трудностей, открыт к новому опыту
+
+  <p>из спортивного программирования</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+ ----
+### 🏆 ***Моя статистика:***
+<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZloY29&theme=github_dark">
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddenyy&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZloY29&theme=github_dark">
+</div>
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZloY29&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZloY29&theme=github_dark&utcOffset=8">
+</div>
+
+### My Codeforces Stats
+
+[CODEFORCES](https://codeforces.com/profile/ZloY_31)
+
+### ***Контакты:***
+### 📧 Почта: lysikovd@list.ru
+### 🌐 Telegram: [@Danya_1](https://t.me/Danya_1)
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
