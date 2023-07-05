@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=610&lines=Welcome+To+Daniil+Lysikov's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=620&lines=Welcome+To+Daniil+Lysikov's+Github+Profile..)](https://git.io/typing-svg)
 
 
 <br> 
