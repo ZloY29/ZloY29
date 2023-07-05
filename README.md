@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=620&lines=Welcome+To+Daniil+Lysikov's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=630&lines=Welcome+To+Daniil+Lysikov's+Github+Profile..)](https://git.io/typing-svg)
 
 
 <br> 
@@ -9,13 +9,6 @@
 <h1 align="center">Всем привет <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Меня зовут <a href="https://vk.com/danyaloko_1" target="_blank"> Даниил Лысиков </h1>
 <h3 align="center">Подающий надежды разработчик👨‍💻
 </h3>
-
-
-<p>
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=500&color=00F747&center=true&vCenter=true&width=800&lines=sport+programmer" alt="Typing SVG" /></a>
-  </p>
-</p>
 
 
 ### ***О себе:***
