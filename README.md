@@ -21,10 +21,10 @@
 <p>
   
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&size=30&duration=4000&pause=1000&color=00F71E&width=50&lines=C%2B%2B" alt="Typing SVG" /></a>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=C%2B%2B)](https://git.io/typing-svg)
   </p>
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=00F747&center=true&vCenter=true&width=435&lines=sport+programmer" alt="Typing SVG" /></a>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=sport+programmer)](https://git.io/typing-svg)
   </p>
   
 </p>
