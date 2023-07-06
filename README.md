@@ -98,10 +98,19 @@ src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f7
   
 </div>
 
+### My Git Stats
+
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=ZloY29&style=flat-square&color=blue" alt=""/>
+</div>
 
 ### My Codeforces Stats
 
-[CODEFORCES](https://codeforces.com/profile/ZloY_31)
+<div id="badges">
+  <a href="https://codeforces.com/profile/ZloY_31">
+    <img src="https://img.shields.io/badge/codeforces-red?logo=cf&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
 
 ### ***Контакты:***
 
@@ -112,14 +121,12 @@ src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f7
   <a href="https://vk.com/danyaloko_1">
     <img src="https://img.shields.io/badge/Vkontakte-blue?logo=vk&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://mail.ru/lysikovd@list.ru">
-    <img src="https://img.shields.io/badge/my_mail-blue?logo=mailru&logoColor=white&style=for-the-badge"/>
+  <a href="https://instagram/danya_lysikov_30">
+    <img src="https://img.shields.io/badge/instagram-purple?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
-
 ### 📧 Почта: lysikovd@list.ru
-### 🌐 Telegram: [@Danya_1](https://t.me/Danya_1)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&pause=400&color=0AB2FF&width=435&lines=Goodbye+my+friend!;The+Developer+るルのて+was+with+you🙏;Come+again!)](https://git.io/typing-svg)
 
