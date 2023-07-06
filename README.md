@@ -112,7 +112,7 @@ src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f7
   <a href="https://vk.com/danyaloko_1">
     <img src="https://img.shields.io/badge/Vkontakte-blue?logo=vk&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://mail.ru/lysikovd">
+  <a href="https://mail.ru/lysikovd@list.ru">
     <img src="https://img.shields.io/badge/my_mail-blue?logo=mailru&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
